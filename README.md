@@ -1,1 +1,1 @@
-Propósito: Pipeline del OpenTelemetry Collector, archivo de configuración otel-collector-config.yaml y docker-compose.yml con recolección de logs, métricas y trazas.
+Propósito: Microservicio en Python (FastAPI) enfocado en la propagación de contexto W3C (traceparent) entre servicios distribuidos.
